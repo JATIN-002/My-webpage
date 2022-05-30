@@ -1,0 +1,270 @@
+.firstimg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-right: 6px;
+    margin-left: 5px;
+}
+
+.navbar-brand{
+    margin-left: 35px;
+}
+
+.firstsection{
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+.title{
+    width: 100%;
+    padding: 75px 0;
+    margin: 0;
+}
+
+.nav-link{
+    font-size: medium;
+    margin: auto 8px;
+}
+
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(32, 46, 46);
+}
+
+.inovators{
+    margin: 30px 85px 40px 35px ;
+    margin-left: 85px;
+    line-height: 1.5;
+}
+.inopara{
+    margin: 35px 85px 40px 35px;
+    margin-left: 85px;
+
+    font-family: 'Murecho', sans-serif;
+    font-size: large;
+    color: DarkSlateGray;
+    line-height: 2;
+}
+
+
+.infobtn1{
+    margin-left: 35px;
+    margin-left: 85px;
+    margin-top: 10px;
+}
+.infobtn2{
+    margin-top: 10px;
+}
+.gorwthimage{
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    margin: 10px 10px 10px 280px;
+
+}
+
+/* second section */
+
+.secondsection{
+    background-color: rgba(228, 132, 97, 0.712);
+    width: 100%;
+    padding: 5% 12%;
+}
+.secondrow{
+    margin-bottom: 3px;
+}
+
+.secondimg{
+    display: block;
+    width: 150px;
+    height: 150px;
+    border-radius: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 8px;
+}
+.secondimg:hover{
+    width: 180px;
+    height: 180px;
+    border-radius: 210px;
+}
+.secondpara{
+    text-align: center;
+    color: rgba(39, 39, 43, 0.87);
+    
+}
+.secondh5{
+    text-align: center;
+}
+
+/* third section */
+
+.thirdsection{
+    background-color: rgb(252, 220, 182);
+    
+}
+.thirdh4{ padding-top: 25px;
+    padding-bottom:20px ;
+    padding-left: 85px;
+    margin-bottom: 0;
+}
+
+.thirdcarousel{
+    background-color: rgb(252, 220, 182);
+    padding: 25px 25% 30px;
+}
+
+.billdoors{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 250px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.thirdpara2{
+    text-align: center;
+}
+
+/* fourthsection */
+
+.fourthsection{
+    background-color: rgba(228, 132, 97, 0.712);
+}
+
+.insight1{
+    background-color:rgba(91, 148, 180, 0.5) ;
+}
+.insight2{
+    background-color:rgba(91, 147, 180, 0.993) ;
+}
+
+/* .rightimgcol{
+    background-color: rgba(228, 132, 97, 0.582);
+}
+
+.leftimgcol{
+    background-color: rgba(228, 132, 97, 0.829);
+} */
+
+.dottedline{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: none;
+    background-color: rgba(228, 132, 97, 0.712) ;
+    width: 18%;
+    color: crimson;
+    border-width: 6px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rightcard{
+    padding: 20px 10px;
+    width: 340px;
+    height: 280px;
+    margin: 40px auto;
+}
+
+.leftcard{
+    padding: 20px 20px;
+    width: 340px;
+    height: 280px;
+    margin: 40px auto;
+}
+
+.rightimg{
+    width: 400px;
+    height: 333px;
+    display: block;
+    /* padding: 20px 25px 20px 60px; */
+    margin: 20px auto;
+}
+
+.leftimg{
+    width: 400px;
+    height: 333px;
+    display: block;
+    /* padding: 20px 60px 20px 25px; */
+    margin: 20px auto;
+}
+
+/* fifth section */
+
+.fifthsection{
+    background-color: rgb(252, 220, 182);
+}
+
+.messagecard{
+    width: 300px;
+    height: 300px;
+    margin: 40px auto 30px 120px;
+    padding-left: 8px;
+}
+
+.contactdiv{
+    margin: 56px auto 30px 140px;
+}
+
+.addresslist{
+    list-style-type: none;
+}
+
+.listsep{
+    width: 25%;
+    margin-left: 8px;
+}
+
+.conticon{
+    margin: auto 5px auto auto;
+    padding-bottom: 2px;
+}
+
+.conpara{
+    margin-top: 6px;
+}
+
+.conh4{
+    display: inline;
+    margin: auto auto auto 6px;
+}
+
+.contactus{
+    padding-top: 26px;
+}
+
+/* last section */
+
+.sixthsection{
+    background-color: rgba(228, 132, 97, 0.712) ;
+}
+
+.followus{
+    text-align: center;
+    padding-top: 26px;
+    padding-bottom: 10px;
+}
+
+.center{
+    padding-bottom: 20px;
+}
+
+.ficon{
+    margin: 8px 12px;
+    
+}
+
+.fa{
+    color: inherit;
+}
+
+.copyright{
+    text-align: center;
+    font-size: 0.8em;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+
+
